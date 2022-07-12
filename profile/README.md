@@ -50,3 +50,13 @@ py -m pip install pillow cryptography PyPanel
 ```
 <br>
 Finally, you are ready to use Jupyter.
+
+## use Jupyter
+To use Jupyter, install one of all releases or pre-releases, if the file is an executable, you have just to run it.
+<br>
+If the file is a python compiled code file or a python source code file (`.py`, `.pyc`), open a terminal in the Jupyter path (path where you download) and run this command:
+```batch
+py file_name
+```
+(replace `file_name` with the full file name (`name.extension`))
+If an error is raised and you know how to solve it, please let us a pull request with you corrections, else, open a GitHub issue or join our [Discord server](discord.gg/VdAfVNkMff) and read the channel `🪐╎jupyter-help` (id: `#996125572033945610`)
