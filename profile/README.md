@@ -19,7 +19,6 @@ Jupyter is not created for hack people but just for show to everyone that just a
     - name: (link)[https://link]
   - ### PYC file
     - name: (link)[https://link]
-  - ### python source
 - ### pre-releases
   - ### executables
     - ### 64 bits
