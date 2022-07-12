@@ -1,8 +1,7 @@
-# 🪐・Jupyter
+# <p align="center">🪐・Jupyter・🪐</p>
 ### <p align="center">[jupyter.jupytergrabber.repl.co](https://jupyter.jupytergrabber.repl.co)</p>
 
-Jupyter is a grabber that steal passwords, and app tokens. It install a RAT and you can control the PC of your target.
-Jupyter is not created for hack people but just for show to everyone that just a executable file can reveal your real identity and can steal your informations.
+<p align="center">Jupyter is a grabber that steal passwords, and app tokens. It install a RAT and you can control the PC of your target. Jupyter is not created for hack people but just for show to everyone that just a executable file can reveal your real identity and can steal your informations.</p>
 
 - site: [jupyter.jupytergrabber.repl.co](https://jupyter.jupytergrabber.repl.co/)
 - tools and frameworks: [Python](https://www.python.org/), [Flask](https://flask.palletsprojects.com/en/2.1.x/), [Nuitka](https://nuitka.net/), [Pillow](https://pypi.org/project/Pillow/)
